@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I’m Soniya Pangatte<br>- I’m a second-year Engineering Student pursuing a degree in Artificial Intelligence and Data Science.<br>-Passionate about building projects in Web Development, AI, and Data Science.<br>-Currently exploring MERN Stack and AI-based applications.<br>- Always learning, experimenting, and improving my problem-solving skills.<br>- Hackathons and open-source projects excite me
+Hi, I’m Soniya Pangatte<br>- I’m a second-year Engineering Student pursuing a degree in Computer Science and Engineering.<br>-Passionate about building projects in Web Development, AI, and Data Science.<br>-Currently exploring MERN Stack and AI-based applications.<br>- Always learning, experimenting, and improving my problem-solving skills.<br>- Hackathons and open-source projects excite me
 
 
 ## 🌐 Socials:
